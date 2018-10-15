@@ -1,4 +1,4 @@
-<nav style="border-radius: 10%;background-color: #f5f5f5;" class="navbar navbar-expand-md navbar-light static-top">
+<nav style="background-color: #f5f5f5;" class="navbar navbar-expand-md navbar-light static-top">
   <a class="navbar-brand" href="{{route('app.home')}}">Laracarte</a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#menu" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
@@ -26,7 +26,7 @@
           <a class="dropdown-item" href="https://larachat.com">Larachat</a>
         </div>
       </li>
-      <li class="nav-item {{set_active_route('app.home')}}">
+      <li class="nav-item {{set_active_route('app.contacts')}}">
         <a class="nav-link " href="{{route('app.contacts')}}">Contacts</a>
       </li>
     </ul>

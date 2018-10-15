@@ -7,7 +7,7 @@
             <div class="row">
                 <div class="col-md-6">
                     <p class="alert alert-danger">
-                        <i class="fa fa-exclamation-triangle"></i> <strong>This app has been build by <a href="https://github.com/6ccattleya" target="_blank">@mara_cisse</a> for learning purpose.</strong>
+                        <i class="fa fa-exclamation-triangle"></i> This app has been build by <a href="https://github.com/6ccattleya" target="_blank">@mara_cisse</a> for learning purpose.
                     </p>
                 </div>
             </div>
